@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Nuitka/PyInstaller build artifacts (ignore build/ but keep dist/)
+build/
+
+# Keep the compiled app in dist/ (uncommented!)
+# Exclude everything else except dist/*
+!dist/
+!dist/**
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local config
+*.env
+
+# Avoid pushing raw .exe from random folders
+*.exe
+!dist/**/*.exe  # allow exe inside dist only
