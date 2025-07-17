@@ -16,6 +16,7 @@
 - `Light` / `Dark` Theme Toggle.
 - **Export-ready** `.xlsx` format.
 - Packaged as a **Standalone** `.exe` (no **Python** needed).
+<br>
 
 <div align="center">
   
