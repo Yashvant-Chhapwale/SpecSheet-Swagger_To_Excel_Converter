@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/322f81b8-3629-43bf-bde9-f312df7b5823" alt="SpecSheet Logo" width="60%" height="25%">
+   <img src="https://github.com/user-attachments/assets/322f81b8-3629-43bf-bde9-f312df7b5823" alt="SpecSheet Logo" width="50%" height="15%">
 </div>
 
 # SpecSheet
