@@ -33,6 +33,10 @@ Thumbs.db
 # Avoid pushing Compressed .zip File
 *.zip
 
-# Temp Restricted Files
+#Restricted Assets
 assets/specSheetLogo.png
+assets/specSheetLogoRounded.png
+
+# Temp Restricted Files
 assets/specSheetLogoLight.png
+
