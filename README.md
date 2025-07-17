@@ -17,11 +17,12 @@
 
 ## Installation And Activation
 - Download the `SpecSheet.dist.zip` file from the **Official** [**Github Releases Page**](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/releases/tag/v1.0.0).
+  ![Releases Page >> Download `SpecSheet.dist.zip`](https://github.com/user-attachments/assets/48390ae0-39f3-45d0-899f-7b48774cd507)<br>
 - Open File Explorer and Navigate to the **directory** where **`Specsheet.dist.zip`** has been downloaded.
 - **Right-Click** on `SpecSheet.dist.zip` and Choose `Extract All` to **decompress** the archive.
 - Open the Extracted folder and **Double-Click** on `SpecSheet.exe` to Launch the Application.
 - If prompted with a **Security Warning**, **Click** `Run` to grant the necessary permissions.<br>
-  ![Click>>Run](https://github.com/user-attachments/assets/d551337e-58ea-4628-9176-8eefc762c40c)
+  ![Click>>Run](https://github.com/user-attachments/assets/d551337e-58ea-4628-9176-8eefc762c40c)<br>
 - Once the Application Starts, **Enter** the `Swagger/OpenAPI URL` into the provided field and **Click** on `Generate SpecSheet`.
 <br>
 
