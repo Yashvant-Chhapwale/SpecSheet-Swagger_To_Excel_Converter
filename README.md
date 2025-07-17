@@ -21,7 +21,7 @@
 - **Right-Click** on `SpecSheet.dist.zip` and Choose `Extract All` to **decompress** the archive.
 - Open the Extracted folder and **Double-Click** on `SpecSheet.exe` to Launch the Application.
 - If prompted with a **Security Warning**, **Click** `Run` to grant the necessary permissions.<br>
-  ![Click>>Run](https://github.com/user-attachments/assets/50b946f7-753d-46f4-9669-c9b53d9da1d5)
+  ![Click>>Run](https://github.com/user-attachments/assets/91991abc-1205-47d7-918c-46f7e7aa064e)
 - Once the Application Starts, **Enter** the `Swagger/OpenAPI URL` into the provided field and **Click** on `Generate SpecSheet`.
 <br>
 
