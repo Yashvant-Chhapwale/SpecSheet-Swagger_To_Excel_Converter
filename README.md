@@ -17,3 +17,11 @@
 - **Export-ready** `.xlsx` format.
 - Packaged as a **Standalone** `.exe` (no **Python** needed).
 
+<div align="center">
+  
+**📌Share your Thoughts and Suggestions at our [Discussions Page](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/discussions/1)**.
+</div>
+
+## Installation and Activation
+
+
