@@ -3,4 +3,17 @@
 </div>
 
 # SpecSheet
-SpecSheet is a Python_Based Application that converts Swagger/OpenAPI Specs into Excel Sheets with Structured API Details and Payloads.
+`SpecSheet` is a **Python_Based Lightweight GUI Application** that converts `Swagger` / `OpenAPI` Specs into `Excel_Sheets` with Structured API Details and Payloads.
+
+### Features
+- Converts `Swagger` / `OpenAPI`  **JSON / YAML** files to **Excel_Sheet** Format.
+- `Extracts:`
+  - Endpoints
+  - HTTP Methods
+  - Payloads (**JSON** Body)
+  - Summary
+  - Parameters
+- `Light` / `Dark` Theme Toggle.
+- ✅ Export-ready `.xlsx` format
+- ✅ Packaged as a standalone `.exe` (no Python needed)
+
