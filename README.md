@@ -22,6 +22,10 @@
   
 **📌Share your Thoughts and Suggestions at our [Discussions Page](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/discussions/1)**.
 </div>
+<br>
+
+---
+<br>
 
 ## Installation and Activation
 
