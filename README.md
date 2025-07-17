@@ -4,8 +4,26 @@
 
 # SpecSheet
 **SpecSheet** is a **`Python_Based Lightweight GUI Application`** that converts `Swagger` / `OpenAPI` Specs into `Excel_Sheets` with Structured API Details and Payloads.
+<br>
 
-### Features
+<div align="center">
+  
+**📌Share your Thoughts and Suggestions at our [Discussions Page](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/discussions/1)**.
+</div>
+<br>
+
+## Installation And Activation
+- Download the Application **(Scribe.exe)** from [Github Releases](https://github.com/Yashvant-Chhapwale/Scribe_Smart-Notes/releases).
+- Open File Explorer and Navigate to the directory where **Scribe.exe** has been downloaded.
+- Double-Click on **Scribe.exe** to launch the application.
+- Please Click on `Run` to grant the necessary permissions.<br>
+  ![Click>>Run](https://github.com/user-attachments/assets/50b946f7-753d-46f4-9669-c9b53d9da1d5)
+<br>
+
+---
+<br>
+
+## Features
 - Converts `Swagger` / `OpenAPI`  **JSON / YAML** files to **Excel_Sheet** Format.
 - `Extracts:`
   - Endpoints
@@ -17,16 +35,5 @@
 - **Export-ready** `.xlsx` format.
 - Packaged as a **Standalone** `.exe` (no **Python** needed).
 <br>
-
-<div align="center">
-  
-**📌Share your Thoughts and Suggestions at our [Discussions Page](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/discussions/1)**.
-</div>
-<br>
-
----
-<br>
-
-## Installation and Activation
 
 
