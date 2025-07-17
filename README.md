@@ -14,6 +14,6 @@
   - Summary
   - Parameters
 - `Light` / `Dark` Theme Toggle.
-- ✅ Export-ready `.xlsx` format
-- ✅ Packaged as a standalone `.exe` (no Python needed)
+- **Export-ready** `.xlsx` format.
+- Packaged as a **Standalone** `.exe` (no **Python** needed).
 
