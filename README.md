@@ -16,11 +16,13 @@
 <br>
 
 ## Installation And Activation
-- Download the Application **(Scribe.exe)** from [Github Releases](https://github.com/Yashvant-Chhapwale/Scribe_Smart-Notes/releases).
-- Open File Explorer and Navigate to the directory where **Scribe.exe** has been downloaded.
-- Double-Click on **Scribe.exe** to launch the application.
-- Please Click on `Run` to grant the necessary permissions.<br>
+- Download the `SpecSheet.dist.zip` file from the **Official** [**Github Releases Page**](https://github.com/Yashvant-Chhapwale/SpecSheet-Swagger_To_Excel_Converter/releases/tag/v1.0.0).
+- Open File Explorer and Navigate to the **directory** where **`Specsheet.dist.zip`** has been downloaded.
+- **Right-Click** on `SpecSheet.dist.zip` and Choose `Extract All` to **decompress** the archive.
+- Open the Extracted folder and **Double-Click** on `SpecSheet.exe` to Launch the Application.
+- If prompted with a **Security Warning**, **Click** `Run` to grant the necessary permissions.<br>
   ![Click>>Run](https://github.com/user-attachments/assets/50b946f7-753d-46f4-9669-c9b53d9da1d5)
+- Once the Application Starts, **Enter** the `Swagger/OpenAPI URL` into the provided field and **Click** on `Generate SpecSheet`.
 <br>
 
 ---
