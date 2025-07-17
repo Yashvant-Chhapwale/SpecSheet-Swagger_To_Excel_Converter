@@ -28,4 +28,11 @@ Thumbs.db
 
 # Avoid pushing raw .exe from random folders
 *.exe
-!dist/**/*.exe  # allow exe inside dist only
+!SpecSheet.dist/**/*.exe
+
+# Avoid pushing Compressed .zip File
+*.zip
+
+# Temp Restricted Files
+assets/specSheetLogo.png
+assets/specSheetLogoLight.png
