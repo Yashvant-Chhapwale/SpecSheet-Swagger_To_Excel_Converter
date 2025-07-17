@@ -7,6 +7,7 @@
    It provides an **intuitive interface** for `Developers` and `QA Engineers` to **visualize**, **extract** and **document** API endpoints, methods, parameters, and request/response payloads in a Clean **Tabular** format —— without having to manually traverse **Raw** `JSON / YAML` files.
 <br>
 <br>
+<br>
 
 <div align="center">
   
