@@ -3,8 +3,8 @@
 </div>
 
 # SpecSheet
-**SpecSheet** is a **`Python_Based Lightweight GUI Application`** that converts `Swagger` / `OpenAPI` Specs into `Excel_Sheets` with Structured API Details and Payloads.
-It provides an **intuitive interface** for `Developers` and `QA Engineers` to **visualize**, **extract** and **document** API endpoints, methods, parameters, and request/response payloads in a Clean **Tabular** format —— without having to manually traverse **Raw** `JSON / YAML` files.
+   **SpecSheet** is a **`Python_Based Lightweight GUI Application`** that converts `Swagger` / `OpenAPI` Specs into `Excel_Sheets` with Structured API Details and Payloads.<br>
+   It provides an **intuitive interface** for `Developers` and `QA Engineers` to **visualize**, **extract** and **document** API endpoints, methods, parameters, and request/response payloads in a Clean **Tabular** format —— without having to manually traverse **Raw** `JSON / YAML` files.
 <br>
 <br>
 
