@@ -85,6 +85,6 @@
 
 # Credits
 - `GUI_Library:` **[Custom Tkinter](https://pypi.org/project/customtkinter/)**
-- `Application Packaging`: Nuitka
+- `Build_Engine`: **[Nuitka](https://nuitka.net/user-documentation/)**
 <br>
 
