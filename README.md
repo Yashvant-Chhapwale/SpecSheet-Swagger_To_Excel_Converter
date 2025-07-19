@@ -89,7 +89,7 @@
 - **`Sample OpenAPI_Dataset (JSON URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)**
 - **`Sample OpenAPI_Dataset (YAML URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.yaml](https://petstore3.swagger.io/api/v3/openapi.yaml)**
 - **`Programming Language`:** **[Python 3](https://docs.python.org/3/)**
-- **`Excel Generator / Editor`:** **[OpenPyXL](https://pypi.org/project/openpyxl/)**
+- **`Excel Generator / Editor`:** **[openpyxl](https://pypi.org/project/openpyxl/)**
 - **`JSON_Parser`:** **[pyjson](https://pypi.org/project/pyjson/)**
 - **`YAML_Parser`:** **[pyyaml](https://pypi.org/project/PyYAML/)**
 - **`HTTP Request_Handler`:** **[requests](https://pypi.org/project/requests/)**
