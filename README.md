@@ -48,10 +48,10 @@
 
 # Tech Stack
 <a  href="https://docs.python.org/3/"><img src="https://github.com/user-attachments/assets/f3575d17-400b-4a22-9b4b-6588a1f9ac4d" alt="Python 3" width="20%" height="30%" /></a>
-<img src="https://github.com/user-attachments/assets/e407ef4b-0b40-4a21-920a-ce2b8efbfffa" alt="Swagger / OpenAPI" width="20%" height="30%" />
+<a href="https://petstore3.swagger.io/"><img src="https://github.com/user-attachments/assets/e407ef4b-0b40-4a21-920a-ce2b8efbfffa" alt="Swagger / OpenAPI" width="20%" height="30%" /></a>
 <br>
-<img src="https://github.com/user-attachments/assets/01c7d152-64d5-440a-95bc-3433dafd6876" alt="Custom Tkinter" width="20%" height="30%" />
-<img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Nuitka" width="20%" height="30%" /><br> 
+<a href="https://github.com/TomSchimansky/CustomTkinter"><img src="https://github.com/user-attachments/assets/01c7d152-64d5-440a-95bc-3433dafd6876" alt="Custom Tkinter" width="20%" height="30%" /></a>
+<a href="https://nuitka.net/user-documentation/"><img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Nuitka" width="20%" height="30%" /></a> 
 <br>
 
 ---
