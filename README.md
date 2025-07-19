@@ -54,8 +54,9 @@
 <a href="https://github.com/TomSchimansky/CustomTkinter"><img src="https://github.com/user-attachments/assets/01c7d152-64d5-440a-95bc-3433dafd6876" alt="Custom Tkinter" width="20%" height="30%" /></a>
 <a href="https://nuitka.net/user-documentation/"><img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Nuitka" width="20%" height="30%" /></a> 
 <br>
-
-   `[Click on a Tool to View its Documentation!]`
+<br>
+   
+   **` Click on a Tool to View its Documentation! `**
 </div>
 <br>
 
