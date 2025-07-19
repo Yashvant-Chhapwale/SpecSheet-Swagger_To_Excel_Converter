@@ -47,15 +47,13 @@
 <br>
 
 # Tech Stack
-<div>
-<label <img src="https://github.com/user-attachments/assets/8fed486f-5493-4b9f-8d29-c4fb19b77adc" width="100%" height="50%" />
->Python</label>  
-</div>
-
+<img src="https://github.com/user-attachments/assets/e407ef4b-0b40-4a21-920a-ce2b8efbfffa" alt="Pyhton 3" width="100%" height="50%" />
 <br>
-
-<img src="https://github.com/user-attachments/assets/d7002318-ba6c-4d81-8b5a-449af5404f00" width="100%" height="50%" /><br> 
+<img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Swagger / OpenAPI" width="100%" height="50%" /><br> 
 <br>
+<img src="https://github.com/user-attachments/assets/416528ed-c4c7-448f-a7ef-f36e2cb72f4e" alt="Custom Tkinter" width="100%" height="50%" />
+<br>
+<img src="https://github.com/user-attachments/assets/f3575d17-400b-4a22-9b4b-6588a1f9ac4d" alt="Nuitka" width="100%" height="50%" /><br> 
 <br>
 
 ---
