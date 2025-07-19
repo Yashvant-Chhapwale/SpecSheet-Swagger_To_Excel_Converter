@@ -47,7 +47,7 @@
 <br>
 
 # Tech Stack
-<img src="https://github.com/user-attachments/assets/e407ef4b-0b40-4a21-920a-ce2b8efbfffa" alt="Pyhton 3" width="100%" height="50%" />
+<img src="https://github.com/user-attachments/assets/e407ef4b-0b40-4a21-920a-ce2b8efbfffa" alt="Python 3" width="100%" height="50%" />
 <br>
 <img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Swagger / OpenAPI" width="100%" height="50%" /><br> 
 <br>
