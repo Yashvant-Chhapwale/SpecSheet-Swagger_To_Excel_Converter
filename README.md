@@ -57,7 +57,7 @@
 ---
 <br>
 
-# Snapshots
+# GUI Snapshots
 
 **`Dark Mode:`**
 <img src="https://github.com/user-attachments/assets/8fed486f-5493-4b9f-8d29-c4fb19b77adc" width="100%" height="50%" /><br>
