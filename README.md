@@ -47,7 +47,15 @@
 <br>
 
 # Tech Stack
-- 
+<div>
+<label <img src="https://github.com/user-attachments/assets/8fed486f-5493-4b9f-8d29-c4fb19b77adc" width="100%" height="50%" />
+Python>   
+</div>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/d7002318-ba6c-4d81-8b5a-449af5404f00" width="100%" height="50%" /><br> 
+<br>
 <br>
 
 ---
