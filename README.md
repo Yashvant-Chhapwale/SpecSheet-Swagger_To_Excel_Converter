@@ -30,30 +30,33 @@
 <br>
 
 # Feature Set
-- **`Streamlined:`** Scribe Smart Notes is designed to provide a **Clutter-Free** and **Intuitive** writing experience.
-- **`Modern Notepad Interface:`** A sleek, user-friendly text editor for notes and documents.
-- **`Smart Chatbot Assistant:`** Integrated AI-powered assistant for suggestions, summaries, and answering queries.
-- **`Multi-Tab Support:`** Work with multiple notes in separate tabs for enhanced productivity.
-- **`Custom Fonts & Styling:`** Adjust font type, style and size for a personalized writing experience.
-- **`Google's Gemini Support:`** Seamlessly integrated with Google’s "Gemini AI".
+- **`Structured Data:`** Effortlessly converts your `Swagger` / `OpenAPI` specifications (**JSON** or **YAML**) into a clean, well-structured `Excel_Sheet`.
+- **`Comprehensive Parsing:`** <br>
+  Automatically extracts all essential details from your API Files:
+  - `API Endpoints`
+  - `HTTP Methods` (**Get**, **Post**, **Put**, **Delete**, etc.)
+  - Request `Payloads` (**JSON_Body**)
+  - Endpoint `Summaries`
+  - `Parameters` (**Query**, **Header**, **Path**)
+- **`Visual Comfort:`** Switch between a **sleek** `Light Mode` and an **eye-friendly** `Dark Mode`.
+- **`One-Click Export:`** Instantly generates a **ready-to-use** `.xlsx` File.
+- **`Zero Installation:`** No need to Install **Python** or any other dependencies, just download and run the `.exe` File.
 <br>
 
 ---
 <br>
 
 # Tech Stack
-- **`Sample OpenAPI Dataset (URL)`**: [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
+- 
 <br>
 
 ---
 <br>
 
 # Snapshots
-<img src="https://github.com/user-attachments/assets/71046b9d-ff13-49d6-bca3-6af9c951104b" width="750" height="450" /><br>
+<img src="https://github.com/user-attachments/assets/8fed486f-5493-4b9f-8d29-c4fb19b77adc" width="100%" height="50%" /><br>
 <br>
-<img src="https://github.com/user-attachments/assets/250bad89-c42e-433e-ad9f-dafa86977d2e" width="750" height="450" /><br> 
-<br>
-<img src="https://github.com/user-attachments/assets/2b5e07b0-0429-426a-a23f-5214f0c24473" width="450" height="600" /><br>
+<img src="https://github.com/user-attachments/assets/d7002318-ba6c-4d81-8b5a-449af5404f00" width="100%" height="50%" /><br> 
 <br>
 
 ---
