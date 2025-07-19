@@ -54,6 +54,12 @@
 <a href="https://nuitka.net/user-documentation/"><img src="https://github.com/user-attachments/assets/2dc09c08-880e-403a-9a9b-49f39add2e65" alt="Nuitka" width="20%" height="30%" /></a> 
 <br>
 
+<div align="center">
+
+   `[Click on a Tool to View its Documentation!]`
+</div>
+<br>
+
 ---
 <br>
 
