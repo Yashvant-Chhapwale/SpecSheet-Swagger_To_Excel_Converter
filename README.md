@@ -76,6 +76,15 @@
 ---
 <br>
 
+# Sample Output
+
+**`Sample Excel_Output:`**
+<img src="https://github.com/user-attachments/assets/4a8274e3-6d0c-40a3-8ebd-667be73fa432" width="100%" height="50%" /><br> 
+<br>
+
+---
+<br>
+
 # Resources
 - **`Sample OpenAPI Dataset (URL)`**: [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
 <br>
