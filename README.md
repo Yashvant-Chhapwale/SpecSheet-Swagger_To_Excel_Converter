@@ -86,12 +86,13 @@
 <br>
 
 # Resources
-- **`Sample OpenAPI Dataset (JSON URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)**
-- **`Sample OpenAPI Dataset (YAML URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.yaml](https://petstore3.swagger.io/api/v3/openapi.yaml)**
+- **`Sample OpenAPI_Dataset (JSON URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)**
+- **`Sample OpenAPI_Dataset (YAML URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.yaml](https://petstore3.swagger.io/api/v3/openapi.yaml)**
 - **`Programming Language`:** **[Python 3](https://docs.python.org/3/)**
 - **`Excel Generator / Editor`:** **[OpenPyXL](https://pypi.org/project/openpyxl/)**
-- **`JSON Parser`:** **[pyjson](https://pypi.org/project/pyjson/)**
-- **`YAML Parser`:** **[pyyaml](https://pypi.org/project/PyYAML/)**
+- **`JSON_Parser`:** **[pyjson](https://pypi.org/project/pyjson/)**
+- **`YAML_Parser`:** **[pyyaml](https://pypi.org/project/PyYAML/)**
+- **`HTTP Request_Handler`:** **[requests](https://pypi.org/project/requests/)**
 - **`GUI_Library`:** **[Custom Tkinter](https://pypi.org/project/customtkinter/)**
 - **`Build_Engine`:** **[Nuitka](https://nuitka.net/user-documentation/)**
 <br>
