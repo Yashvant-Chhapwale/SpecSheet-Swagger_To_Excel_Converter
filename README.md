@@ -29,17 +29,45 @@
 ---
 <br>
 
-## Features
-- Converts `Swagger` / `OpenAPI`  **JSON / YAML** files to **Excel_Sheet** Format.
-- `Extracts:`
-  - Endpoints
-  - HTTP Methods
-  - Payloads (**JSON** Body)
-  - Summary
-  - Parameters
-- `Light` / `Dark` Theme Toggle.
-- **Export-ready** `.xlsx` format.
-- Packaged as a **Standalone** `.exe` (no **Python** needed).
+# Feature Set
+- **`Streamlined:`** Scribe Smart Notes is designed to provide a **Clutter-Free** and **Intuitive** writing experience.
+- **`Modern Notepad Interface:`** A sleek, user-friendly text editor for notes and documents.
+- **`Smart Chatbot Assistant:`** Integrated AI-powered assistant for suggestions, summaries, and answering queries.
+- **`Multi-Tab Support:`** Work with multiple notes in separate tabs for enhanced productivity.
+- **`Custom Fonts & Styling:`** Adjust font type, style and size for a personalized writing experience.
+- **`Google's Gemini Support:`** Seamlessly integrated with Google’s "Gemini AI".
 <br>
 
+---
+<br>
+
+# Tech Stack
+- **`Sample OpenAPI Dataset (URL)`**: [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
+<br>
+
+---
+<br>
+
+# Snapshots
+<img src="https://github.com/user-attachments/assets/71046b9d-ff13-49d6-bca3-6af9c951104b" width="750" height="450" /><br>
+<br>
+<img src="https://github.com/user-attachments/assets/250bad89-c42e-433e-ad9f-dafa86977d2e" width="750" height="450" /><br> 
+<br>
+<img src="https://github.com/user-attachments/assets/2b5e07b0-0429-426a-a23f-5214f0c24473" width="450" height="600" /><br>
+<br>
+
+---
+<br>
+
+# Resources
+- **`Sample OpenAPI Dataset (URL)`**: [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
+<br>
+
+---
+<br>
+
+# Credits
+- `GUI_Library:` **[Custom Tkinter](https://pypi.org/project/customtkinter/)**
+- `Application Packaging`: Nuitka
+<br>
 
