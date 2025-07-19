@@ -86,14 +86,12 @@
 <br>
 
 # Resources
-- **`Sample OpenAPI Dataset (URL)`**: [https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
+- **`Sample OpenAPI Dataset (URL)`:** **[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)**
+- **`Programming Language`:** **[Python 3](https://docs.python.org/3/)**
+- **`Excel Generator / Editor`:** **[OpenPyXL](https://pypi.org/project/openpyxl/)**
+- **`GUI_Library`:** **[Custom Tkinter](https://pypi.org/project/customtkinter/)**
+- **`Build_Engine`:** **[Nuitka](https://nuitka.net/user-documentation/)**
 <br>
 
 ---
 <br>
-
-# Credits
-- `GUI_Library:` **[Custom Tkinter](https://pypi.org/project/customtkinter/)**
-- `Build_Engine`: **[Nuitka](https://nuitka.net/user-documentation/)**
-<br>
-
