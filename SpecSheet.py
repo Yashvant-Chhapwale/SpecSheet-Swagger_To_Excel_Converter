@@ -97,7 +97,7 @@ ctk.set_default_color_theme("blue")
 
 app = ctk.CTk()
 app.title("SpecSheet")
-app.geometry("650x450")
+app.geometry("650x480")
 app.minsize(650, 450)      
 
 if getattr(sys, 'frozen', False): 
@@ -105,9 +105,10 @@ if getattr(sys, 'frozen', False):
 else: 
     base_path = os.path.dirname(os.path.abspath(__file__))
     icon_path = os.path.join(base_path, "assets", "specSheetSymbol.ico") 
-    logoLight = os.path.join(base_path, "assets", "specSheetLogoLight2.png")
-    logoDark = os.path.join(base_path, "assets", "specSheetLogoDark2.png")
-                                        
+    logoLight = os.path.join(base_path, "assets", "specSheetLogoOpaqueLight.png")
+    logoDark = os.path.join(base_path, "assets", "specSheetLogoOpaqueDark.png")
+
+icon = Image.open(icon_path)                      
 app.wm_iconbitmap(icon_path)
 
 colors = {
@@ -120,8 +121,8 @@ theme_button.place(relx=0.95, rely=0.0, anchor="ne", x=1)
 
 app.configure(fg_color=colors[current_mode]["primaryBg"])
 
-image = ctk.CTkImage(light_image=Image.open("assets/specSheetLogoLight2.png"), dark_image=Image.open("assets/specSheetLogoDark2.png"), size=(330, 80))
-imgLabel = ctk.CTkLabel(app, text="", image=image, fg_color=colors[current_mode]["primaryBg"])
+logoImage = ctk.CTkImage(light_image=Image.open(logoLight), dark_image=Image.open(logoDark), size=(330, 80))
+imgLabel = ctk.CTkLabel(app, text="", image=logoImage, fg_color=colors[current_mode]["primaryBg"])
 imgLabel.pack(pady=(80,40))
 
 spacer = ctk.CTkLabel(app, text="", height=5)
