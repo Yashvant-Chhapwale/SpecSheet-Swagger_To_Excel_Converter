@@ -66,7 +66,7 @@
 # GUI Snapshots
 
 **`Dark Mode:`**
-<img src="https://github.com/user-attachments/assets/7e787586-7441-4c92-89b9-e11fbb304b6e" alt="Dark Mode Snapshot" width="100%" height="50%" /><br>
+<img src="https://github.com/user-attachments/assets/ec6a7915-fb70-403d-adc3-2a0e21d58f27" alt="Dark Mode Snapshot" width="100%" height="50%" /><br>
 <br>
 
 **`Light Mode:`**
