@@ -66,11 +66,11 @@
 # GUI Snapshots
 
 **`Dark Mode:`**
-<img src="https://github.com/user-attachments/assets/8fed486f-5493-4b9f-8d29-c4fb19b77adc" width="100%" height="50%" /><br>
+<img src="https://github.com/user-attachments/assets/f5534d35-7785-4c86-88f7-4d3188a9773d" alt="Dark Mode Snapshot" width="100%" height="50%" /><br>
 <br>
 
 **`Light Mode:`**
-<img src="https://github.com/user-attachments/assets/d7002318-ba6c-4d81-8b5a-449af5404f00" width="100%" height="50%" /><br> 
+<img src="https://github.com/user-attachments/assets/7e787586-7441-4c92-89b9-e11fbb304b6e" alt="Light Mode Snapshot" width="100%" height="50%" /><br> 
 <br>
 
 ---
