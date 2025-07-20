@@ -27,7 +27,7 @@ def fetch_from_swagger(url):
 
     return data
 
-def extract_swagger_info(swagger):
+def extract_swagger_data(swagger):
     endpoint = swagger.get('paths', {})
     schema = swagger.get('components', {}).get('schemas', {})
     return endpoint, schema
@@ -55,7 +55,7 @@ def generate_payload(schema):
     return None
 
 def convert_to_excel(swagger_data):
-    endpoints, schemas = extract_swagger_info(swagger_data)
+    endpoints, schemas = extract_swagger_data(swagger_data)
     workbook = Workbook()
 
     # Sheet_1
