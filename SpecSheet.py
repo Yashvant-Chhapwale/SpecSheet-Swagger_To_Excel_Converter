@@ -104,11 +104,10 @@ if getattr(sys, 'frozen', False):
     base_path = sys._MEIPASS 
 else: 
     base_path = os.path.dirname(os.path.abspath(__file__))
-    icon_path = os.path.join(base_path, "assets", "specSheetSymbol.ico") 
+    icon_path = os.path.join(base_path, "assets", "specSheetIcon.ico") 
     logoLight = os.path.join(base_path, "assets", "specSheetLogoOpaqueLight.png")
     logoDark = os.path.join(base_path, "assets", "specSheetLogoOpaqueDark.png")
-
-icon = Image.open(icon_path)                      
+                    
 app.wm_iconbitmap(icon_path)
 
 colors = {
