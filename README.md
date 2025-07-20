@@ -93,6 +93,7 @@
 - **`JSON_Parser`:** **[pyjson](https://pypi.org/project/pyjson/)**
 - **`YAML_Parser`:** **[pyyaml](https://pypi.org/project/PyYAML/)**
 - **`HTTP Request_Handler`:** **[requests](https://pypi.org/project/requests/)**
+- **`Image_Rendering Tool`:** **[pillow](https://pillow.readthedocs.io/en/stable/)**
 - **`GUI_Library`:** **[Custom Tkinter](https://pypi.org/project/customtkinter/)**
 - **`Build_Engine`:** **[Nuitka](https://nuitka.net/user-documentation/)**
 <br>
