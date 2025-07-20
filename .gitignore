@@ -36,9 +36,10 @@ Thumbs.db
 #Restricted Assets
 assets/specSheetLogo.png
 assets/specSheetLogoRounded.png
+assets/specSheetLogoLight.png
+assets/specSheetLogoDark.png
 assets/TechStack/*
 
 # Temp Restricted Files
-assets/specSheetLogoLight.png
-assets/specSheetLogoDark.png
+
 

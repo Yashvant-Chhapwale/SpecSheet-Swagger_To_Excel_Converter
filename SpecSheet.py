@@ -1,6 +1,7 @@
 import customtkinter as ctk
 from urllib.parse import urlparse
 from tkinter import filedialog
+from PIL import Image
 import tempfile
 import sys
 import os
@@ -18,7 +19,6 @@ def toggle_theme():
     current_mode = ctk.get_appearance_mode().lower()
     app.configure(fg_color=colors[current_mode]["primaryBg"])
     theme_button.configure(fg_color=colors[current_mode]["primaryBg"], hover_color=colors[current_mode]["primaryBg"])
-    title.configure(text_color=colors[current_mode]["label"])
     entry.configure(fg_color=colors[current_mode]["entry"], border_color=colors[current_mode]["entry_border"], text_color=colors[current_mode]["entry_text"])
     convert_btn.configure(fg_color=colors[current_mode]["button"], hover_color=colors[current_mode]["button_hover"], text_color=colors[current_mode]["button_text"])
     result.configure(fg_color=colors[current_mode]["result"])
@@ -105,8 +105,8 @@ if getattr(sys, 'frozen', False):
 else: 
     base_path = os.path.dirname(os.path.abspath(__file__))
     icon_path = os.path.join(base_path, "assets", "specSheetSymbol.ico") 
-    logoLight = os.path.join(base_path, "assets", "specSheetLogoLight.png")
-    logoDark = os.path.join(base_path, "assets", "specSheetLogoDark.png")
+    logoLight = os.path.join(base_path, "assets", "specSheetLogoLight2.png")
+    logoDark = os.path.join(base_path, "assets", "specSheetLogoDark2.png")
                                         
 app.wm_iconbitmap(icon_path)
 
@@ -120,8 +120,9 @@ theme_button.place(relx=0.95, rely=0.0, anchor="ne", x=1)
 
 app.configure(fg_color=colors[current_mode]["primaryBg"])
 
-title = ctk.CTkLabel(app, text="SpecSheet", font=("Verdana", 30, "normal"), text_color=colors[current_mode]["label"])
-title.pack(pady=(80,40))
+image = ctk.CTkImage(light_image=Image.open("assets/specSheetLogoLight2.png"), dark_image=Image.open("assets/specSheetLogoDark2.png"), size=(330, 80))
+imgLabel = ctk.CTkLabel(app, text="", image=image, fg_color=colors[current_mode]["primaryBg"])
+imgLabel.pack(pady=(80,40))
 
 spacer = ctk.CTkLabel(app, text="", height=5)
 spacer.pack()
